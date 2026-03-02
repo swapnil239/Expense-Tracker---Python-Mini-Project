@@ -8,12 +8,13 @@ It helps in managing and organizing daily spending in a structured way.
 🚀 Features
 
 ➕ Add a new expense with:
-Date
-Category
-Description
-Amount
+ Date
+ Category
+ Description
+ Amount
 
 📄 View all recorded expenses
+
 💰 Calculate total expenses
 ❌ Exit the program
 
