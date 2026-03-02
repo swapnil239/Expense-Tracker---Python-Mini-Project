@@ -1,4 +1,4 @@
-# Expense-Tracker---Python-Mini-Projec
+# Expense-Tracker---Python-Mini-Project
 📌 Project Overview
 This is a simple Expense Tracker Mini Project built using Python.
 The program allows users to record their daily expenses, view all added expenses, calculate the total amount spent, and exit the application.
