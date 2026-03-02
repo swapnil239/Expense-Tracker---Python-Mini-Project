@@ -1,33 +1,28 @@
-# Expense-Tracker---Python-Mini-Project
+🧾 Expense Tracker (Python Mini Project)
 📌 Project Overview
-
-This is a simple Expense Tracker Mini Project built using Python.
-The program allows users to record their daily expenses, view all added expenses, calculate the total amount spent, and exit the application.
-It helps in managing and organizing daily spending in a structured way.
+This is a simple Expense Tracker application built in Python.
+It allows users to record and manage their daily expenses in a structured way.
+The program runs in a loop and provides multiple options to interact with the expense records.
 
 🚀 Features
-
-➕ Add a new expense with:
- Date
- Category
- Description
- Amount
-
-📄 View all recorded expenses
-
-💰 Calculate total expenses
-❌ Exit the program
+Add a new expense with:
+Date
+Category
+Description
+Amount
+View all recorded expenses
+Calculate total expenses
+Exit the program
 
 🛠 How It Works
 The program displays a menu with 4 options.
 The user selects an option by entering a number.
-Based on the choice:
-Expense details are stored in a list as dictionaries.
-All expenses can be displayed.
-Total expense amount is calculated using a loop.
-The program keeps running until the user selects Exit.
-📂 Data Structure Used
-Each expense is stored in this format:
+When adding an expense, the details are stored in a list as a dictionary.
+Users can view all stored expenses.
+The total expense amount is calculated using a loop.
+The program continues running until the user selects Exit.
+📂 Data Storage Format
+Each expense is stored in the following format:
 
 {
   "date": "12-03-2026",
@@ -41,7 +36,7 @@ Each expense is stored in this format:
 2. View All Expenses
 3. View Total Expenses
 4. Exit
-   
+5. 
 📈 Future Improvements
 Add file storage (save expenses permanently)
 Add monthly expense summary
@@ -49,9 +44,9 @@ Add expense deletion feature
 Add category-wise total calculation
 Create GUI version
 
-
-🌟 Author
+👩‍💻 Author
 Swapnil Sharma
 Python Learner | Software Engineer 🚀
+   
 
 
